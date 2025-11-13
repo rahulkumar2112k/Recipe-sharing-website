@@ -401,7 +401,7 @@ export const indianStates: State[] = [
       {
         id: 'dhuska',
         name: 'Dhuska',
-        image: 'https://images.unsplash.com/photo-1596797038530-2c107229654b?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1762146976/duska_kmr5i3.png',
         ingredients: ['Chana dal', 'Urad dal', 'Rice', 'Spices', 'Oil'],
         steps: ['Soak lentils overnight', 'Grind to batter', 'Deep fry', 'Serve with chutney'],
         region: 'East India',
@@ -410,7 +410,7 @@ export const indianStates: State[] = [
       {
         id: 'pittha',
         name: 'Pittha',
-        image: 'https://images.unsplash.com/photo-1596797038530-2c107229654b?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1761827422/pitha_y4gczw.png',
         ingredients: ['Rice flour', 'Chana dal', 'Spices', 'Jaggery'],
         steps: ['Make rice dough', 'Prepare filling', 'Steam', 'Serve'],
         region: 'East India',
@@ -419,7 +419,7 @@ export const indianStates: State[] = [
       {
         id: 'thekua',
         name: 'Thekua',
-        image: 'https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1762147226/thekua_fswa20.png',
         ingredients: ['Wheat flour', 'Jaggery', 'Ghee', 'Coconut'],
         steps: ['Mix ingredients', 'Shape cookies', 'Deep fry', 'Cool and store'],
         region: 'East India',
@@ -428,7 +428,7 @@ export const indianStates: State[] = [
       {
         id: 'handia',
         name: 'Handia',
-        image: 'https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1762147346/handia_jce9gx.png',
         ingredients: ['Rice', 'Ranu tablets', 'Water'],
         steps: ['Cook rice', 'Add ranu', 'Ferment', 'Strain and serve'],
         region: 'East India',
@@ -443,7 +443,7 @@ export const indianStates: State[] = [
       {
         id: 'bisi-bele-bath',
         name: 'Bisi Bele Bath',
-        image: 'https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1762148723/bisi-bela-bath_olgiat.png',
         ingredients: ['Rice', 'Lentils', 'Vegetables', 'Tamarind', 'Spice powder', 'Ghee'],
         steps: ['Cook rice and dal', 'Add vegetables', 'Mix with spice powder', 'Temper'],
         region: 'South India',
@@ -452,7 +452,7 @@ export const indianStates: State[] = [
       {
         id: 'mysore-pak',
         name: 'Mysore Pak',
-        image: 'https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1762148728/mysore-pak_xeyxwz.png',
         ingredients: ['Gram flour', 'Sugar', 'Ghee', 'Cardamom'],
         steps: ['Make sugar syrup', 'Roast gram flour', 'Mix and cook', 'Set and cut'],
         region: 'South India',
@@ -461,7 +461,7 @@ export const indianStates: State[] = [
       {
         id: 'kori-gassi',
         name: 'Kori Gassi',
-        image: 'https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1762148732/kori-kassi_wad5hg.png',
         ingredients: ['Chicken', 'Coconut', 'Tamarind', 'Red chilies', 'Spices'],
         steps: ['Marinate chicken', 'Grind masala', 'Cook chicken', 'Add coconut milk'],
         region: 'South India',
@@ -470,7 +470,7 @@ export const indianStates: State[] = [
       {
         id: 'neer-dosa',
         name: 'Neer Dosa',
-        image: 'https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1762148734/neer-dosa_jeybkr.png',
         ingredients: ['Rice', 'Coconut', 'Water', 'Salt'],
         steps: ['Soak rice', 'Grind with coconut', 'Make thin batter', 'Pour on tawa'],
         region: 'South India',
@@ -485,7 +485,7 @@ export const indianStates: State[] = [
       {
         id: 'fish-curry',
         name: 'Fish Curry',
-        image: 'https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1762149388/fish-curray_puprwh.png',
         ingredients: ['Fish', 'Coconut milk', 'Curry leaves', 'Tamarind', 'Spices'],
         steps: ['Clean fish', 'Prepare coconut milk', 'Cook with spices', 'Add tamarind'],
         region: 'South India',
@@ -494,7 +494,7 @@ export const indianStates: State[] = [
       {
         id: 'appam',
         name: 'Appam',
-        image: 'https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1762149388/appam_gtg397.png',
         ingredients: ['Rice', 'Coconut', 'Yeast', 'Sugar', 'Salt'],
         steps: ['Soak rice', 'Grind with coconut', 'Ferment batter', 'Cook in appam pan'],
         region: 'South India',
@@ -503,7 +503,7 @@ export const indianStates: State[] = [
       {
         id: 'puttu',
         name: 'Puttu',
-        image: 'https://images.unsplash.com/photo-1606491956689-2ea866880c84?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1762149386/putta_d9nwsm.png',
         ingredients: ['Rice flour', 'Coconut', 'Salt', 'Water'],
         steps: ['Steam rice flour', 'Layer with coconut', 'Steam in puttu maker'],
         region: 'South India',
@@ -512,7 +512,7 @@ export const indianStates: State[] = [
       {
         id: 'sadya',
         name: 'Kerala Sadya',
-        image: 'https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1762149359/sadya_yjh2tf.png',
         ingredients: ['Rice', 'Various curries', 'Pickles', 'Payasam', 'Banana leaf'],
         steps: ['Prepare multiple dishes', 'Arrange on banana leaf', 'Serve in sequence'],
         region: 'South India',
