@@ -63,7 +63,7 @@ export default function About() {
       description:
         "Focused on building robust, scalable backend systems to ensure seamless recipe sharing and data preservation across the platform.",
       image:
-        "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150&h=150&fit=crop&crop=face",
+        "https://res.cloudinary.com/dbkmlvzhi/image/upload/v1763045005/anand-pic_kyni3h.jpg",
       social: {
         linkedin: "#",
         twitter: "#",
