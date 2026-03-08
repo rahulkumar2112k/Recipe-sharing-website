@@ -527,7 +527,7 @@ export const indianStates: State[] = [
       {
         id: 'poha',
         name: 'Poha',
-        image: 'https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1767705193/Gemini_Generated_Image_h3lsx6h3lsx6h3ls_iafyrh.png',
         ingredients: ['Flattened rice', 'Peanuts', 'Curry leaves', 'Turmeric', 'Lemon'],
         steps: ['Wash poha', 'Temper spices', 'Add poha', 'Mix and serve'],
         region: 'Central India',
@@ -536,7 +536,7 @@ export const indianStates: State[] = [
       {
         id: 'bhutte-kees',
         name: 'Bhutte ki Kees',
-        image: 'https://images.unsplash.com/photo-1596797038530-2c107229654b?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1767705175/ChatGPT_Image_Jan_6_2026_06_42_37_PM_d8lfej.jpg',
         ingredients: ['Grated corn', 'Milk', 'Ghee', 'Spices', 'Coriander'],
         steps: ['Grate corn', 'Cook in milk', 'Add spices', 'Garnish'],
         region: 'Central India',
@@ -545,7 +545,7 @@ export const indianStates: State[] = [
       {
         id: 'dal-bafla',
         name: 'Dal Bafla',
-        image: 'https://images.unsplash.com/photo-1596797038530-2c107229654b?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1767705176/ChatGPT_Image_Jan_6_2026_06_40_07_PM_wxcivj.jpg',
         ingredients: ['Wheat flour', 'Lentils', 'Ghee', 'Spices'],
         steps: ['Make bafla dough', 'Boil and roast', 'Prepare dal', 'Serve with ghee'],
         region: 'Central India',
@@ -554,7 +554,7 @@ export const indianStates: State[] = [
       {
         id: 'malpua',
         name: 'Malpua',
-        image: 'https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1767705175/ChatGPT_Image_Jan_6_2026_06_41_38_PM_uuwdwl.jpg',
         ingredients: ['Flour', 'Milk', 'Sugar', 'Fennel seeds', 'Ghee'],
         steps: ['Make batter', 'Fry pancakes', 'Soak in sugar syrup', 'Serve'],
         region: 'Central India',
