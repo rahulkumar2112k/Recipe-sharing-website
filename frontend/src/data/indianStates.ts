@@ -569,7 +569,7 @@ export const indianStates: State[] = [
       {
         id: 'misal-pav',
         name: 'Misal Pav',
-        image: 'https://images.unsplash.com/photo-1626132647523-66f85bf4c8f3?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1767705727/ChatGPT_Image_Jan_6_2026_06_49_37_PM_yrkm4y.jpg',
         ingredients: ['Sprouted lentils', 'Onions', 'Farsan', 'Pav', 'Spices'],
         steps: ['Cook sprouts', 'Prepare spicy gravy', 'Top with farsan', 'Serve with pav'],
         region: 'West India',
@@ -578,7 +578,7 @@ export const indianStates: State[] = [
       {
         id: 'vada-pav',
         name: 'Vada Pav',
-        image: 'https://images.unsplash.com/photo-1626132647523-66f85bf4c8f3?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1767705727/ChatGPT_Image_Jan_6_2026_06_49_40_PM_u2qf0e.jpg',
         ingredients: ['Potatoes', 'Gram flour', 'Pav', 'Green chutney', 'Spices'],
         steps: ['Make potato filling', 'Coat in batter', 'Deep fry', 'Serve in pav'],
         region: 'West India',
@@ -587,7 +587,7 @@ export const indianStates: State[] = [
       {
         id: 'puran-poli',
         name: 'Puran Poli',
-        image: 'https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1767705726/ChatGPT_Image_Jan_6_2026_06_49_44_PM_ka6io4.jpg',
         ingredients: ['Wheat flour', 'Chana dal', 'Jaggery', 'Cardamom', 'Ghee'],
         steps: ['Cook dal with jaggery', 'Make dough', 'Stuff and roll', 'Cook with ghee'],
         region: 'West India',
@@ -596,7 +596,7 @@ export const indianStates: State[] = [
       {
         id: 'pav-bhaji',
         name: 'Pav Bhaji',
-        image: 'https://images.unsplash.com/photo-1606491956689-2ea866880c84?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1767705726/ChatGPT_Image_Jan_6_2026_06_50_49_PM_zkxmlf.jpg',
         ingredients: ['Mixed vegetables', 'Butter', 'Pav bhaji masala', 'Pav'],
         steps: ['Mash vegetables', 'Cook with butter and masala', 'Toast pav', 'Serve hot'],
         region: 'West India',
@@ -611,7 +611,7 @@ export const indianStates: State[] = [
       {
         id: 'eromba',
         name: 'Eromba',
-        image: 'https://images.unsplash.com/photo-1596797038530-2c107229654b?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1767706505/ChatGPT_Image_Jan_6_2026_06_58_27_PM_gxaopb.jpg',
         ingredients: ['Vegetables', 'Fermented fish', 'Chilies', 'Bamboo shoots'],
         steps: ['Boil vegetables', 'Add fermented fish', 'Mash together', 'Season'],
         region: 'North East India',
@@ -620,7 +620,7 @@ export const indianStates: State[] = [
       {
         id: 'kangshoi',
         name: 'Kangshoi',
-        image: 'https://images.unsplash.com/photo-1596797038530-2c107229654b?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1767706503/ChatGPT_Image_Jan_6_2026_06_57_51_PM_wm8oo1.jpg',
         ingredients: ['Seasonal vegetables', 'Onions', 'Ginger', 'Garlic', 'Chilies'],
         steps: ['Boil vegetables', 'Add aromatics', 'Season', 'Serve hot'],
         region: 'North East India',
@@ -629,7 +629,7 @@ export const indianStates: State[] = [
       {
         id: 'chamthong',
         name: 'Chamthong',
-        image: 'https://images.unsplash.com/photo-1596797038530-2c107229654b?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1767706499/ChatGPT_Image_Jan_6_2026_06_59_24_PM_gccbh9.jpg',
         ingredients: ['Vegetables', 'Onions', 'Maroi', 'Ginger'],
         steps: ['Boil vegetables', 'Add herbs', 'Season lightly', 'Serve as soup'],
         region: 'North East India',
@@ -638,7 +638,7 @@ export const indianStates: State[] = [
       {
         id: 'singju',
         name: 'Singju',
-        image: 'https://images.unsplash.com/photo-1596797038530-2c107229654b?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1767706500/ChatGPT_Image_Jan_6_2026_07_01_26_PM_b34vfl.jpg',
         ingredients: ['Cabbage', 'Lotus stem', 'Perilla seeds', 'Fermented fish', 'Chilies'],
         steps: ['Chop vegetables', 'Mix with seeds', 'Add fish paste', 'Toss'],
         region: 'North East India',
@@ -653,7 +653,7 @@ export const indianStates: State[] = [
       {
         id: 'jadoh',
         name: 'Jadoh',
-        image: 'https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1767707203/ChatGPT_Image_Jan_6_2026_07_10_28_PM_rdxeej.jpg',
         ingredients: ['Rice', 'Pork', 'Black sesame', 'Ginger', 'Onions', 'Spices'],
         steps: ['Cook pork', 'Add rice', 'Mix with spices', 'Cook together'],
         region: 'North East India',
@@ -662,7 +662,7 @@ export const indianStates: State[] = [
       {
         id: 'dohneiiong',
         name: 'Dohneiiong',
-        image: 'https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1767707201/ChatGPT_Image_Jan_6_2026_07_10_42_PM_v8oeiq.jpg',
         ingredients: ['Pork', 'Black sesame', 'Onions', 'Ginger', 'Chilies'],
         steps: ['Cut pork', 'Dry roast', 'Add sesame paste', 'Cook slowly'],
         region: 'North East India',
@@ -671,7 +671,7 @@ export const indianStates: State[] = [
       {
         id: 'tungrymbai',
         name: 'Tungrymbai',
-        image: 'https://images.unsplash.com/photo-1596797038530-2c107229654b?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1767707200/ChatGPT_Image_Jan_6_2026_07_12_07_PM_o3x64q.jpg',
         ingredients: ['Fermented soybeans', 'Pork', 'Onions', 'Ginger', 'Chilies'],
         steps: ['Prepare fermented beans', 'Cook with pork', 'Add aromatics', 'Simmer'],
         region: 'North East India',
@@ -680,7 +680,7 @@ export const indianStates: State[] = [
       {
         id: 'kyat',
         name: 'Kyat',
-        image: 'https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1767707199/ChatGPT_Image_Jan_6_2026_07_13_30_PM_rabe1e.jpg',
         ingredients: ['Rice', 'Water', 'Fermentation culture'],
         steps: ['Brew rice', 'Ferment', 'Strain', 'Serve as beer'],
         region: 'North East India',
@@ -695,7 +695,7 @@ export const indianStates: State[] = [
       {
         id: 'bai',
         name: 'Bai',
-        image: 'https://images.unsplash.com/photo-1596797038530-2c107229654b?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1767708058/ChatGPT_Image_Jan_6_2026_07_24_31_PM_mp8cdd.jpg',
         ingredients: ['Steamed vegetables', 'Bamboo shoots', 'Pork/Fish', 'Herbs'],
         steps: ['Steam vegetables', 'Add meat', 'Season with herbs', 'Serve'],
         region: 'North East India',
@@ -704,7 +704,7 @@ export const indianStates: State[] = [
       {
         id: 'misa-mach-poora',
         name: 'Misa Mach Poora',
-        image: 'https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1767708059/ChatGPT_Image_Jan_6_2026_07_26_59_PM_quzmhf.jpg',
         ingredients: ['Shrimp', 'Banana leaves', 'Mustard oil', 'Lemon', 'Spices'],
         steps: ['Marinate shrimp', 'Wrap in banana leaves', 'Grill', 'Serve hot'],
         region: 'North East India',
@@ -713,7 +713,7 @@ export const indianStates: State[] = [
       {
         id: 'vawksa-rep',
         name: 'Vawksa Rep',
-        image: 'https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1767708060/ChatGPT_Image_Jan_6_2026_07_27_40_PM_imxhsy.jpg',
         ingredients: ['Pork', 'Bamboo shoots', 'Ginger', 'Garlic', 'Herbs'],
         steps: ['Smoke pork', 'Cook with bamboo', 'Add aromatics', 'Simmer'],
         region: 'North East India',
@@ -722,7 +722,7 @@ export const indianStates: State[] = [
       {
         id: 'koat-pitha',
         name: 'Koat Pitha',
-        image: 'https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1767708059/ChatGPT_Image_Jan_6_2026_07_25_18_PM_urmyul.jpg',
         ingredients: ['Rice flour', 'Banana', 'Jaggery'],
         steps: ['Mix flour with banana', 'Shape into balls', 'Deep fry', 'Serve'],
         region: 'North East India',
