@@ -737,7 +737,7 @@ export const indianStates: State[] = [
       {
         id: 'akibeye',
         name: 'Akibeye',
-        image: 'https://images.unsplash.com/photo-1596797038530-2c107229654b?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1775036186/ChatGPT_Image_Apr_1_2026_03_03_43_PM_jz1a2h.png',
         ingredients: ['Colocasia leaves', 'Mustard leaves', 'Pork', 'Axone', 'Chilies'],
         steps: ['Prepare leaves', 'Cook with pork', 'Add fermented soybean', 'Season'],
         region: 'North East India',
@@ -746,7 +746,7 @@ export const indianStates: State[] = [
       {
         id: 'bamboo-fish',
         name: 'Bamboo Fish',
-        image: 'https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1775036186/ChatGPT_Image_Apr_1_2026_03_04_58_PM_solw69.png',
         ingredients: ['Fish', 'Bamboo', 'Green chilies', 'Ginger', 'Coriander'],
         steps: ['Fill bamboo with fish', 'Add aromatics', 'Cook over fire', 'Serve'],
         region: 'North East India',
@@ -755,7 +755,7 @@ export const indianStates: State[] = [
       {
         id: 'smoked-pork',
         name: 'Smoked Pork with Axone',
-        image: 'https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1775036185/ChatGPT_Image_Apr_1_2026_03_05_21_PM_ryltoz.png',
         ingredients: ['Pork', 'Fermented soybeans', 'King chilies', 'Ginger'],
         steps: ['Smoke pork', 'Cook with axone', 'Add chilies', 'Simmer'],
         region: 'North East India',
@@ -764,7 +764,7 @@ export const indianStates: State[] = [
       {
         id: 'galho',
         name: 'Galho',
-        image: 'https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1775036185/ChatGPT_Image_Apr_1_2026_03_06_00_PM_clfasb.png',
         ingredients: ['Rice', 'Vegetables', 'Meat', 'Axone', 'Herbs'],
         steps: ['Cook rice with vegetables', 'Add meat', 'Season', 'Serve as porridge'],
         region: 'North East India',
@@ -779,7 +779,7 @@ export const indianStates: State[] = [
       {
         id: 'dalma',
         name: 'Dalma',
-        image: 'https://images.unsplash.com/photo-1596797038530-2c107229654b?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1775036804/ChatGPT_Image_Apr_1_2026_03_11_04_PM_grng1z.png',
         ingredients: ['Moong dal', 'Vegetables', 'Ginger', 'Turmeric', 'Panch phoron'],
         steps: ['Cook dal with vegetables', 'Mash lightly', 'Temper with panch phoron', 'Serve'],
         region: 'East India',
@@ -788,7 +788,7 @@ export const indianStates: State[] = [
       {
         id: 'chungdi-malai',
         name: 'Chungdi Malai',
-        image: 'https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1775036780/ChatGPT_Image_Apr_1_2026_03_15_52_PM_apmiod.png',
         ingredients: ['Prawns', 'Coconut milk', 'Onions', 'Spices'],
         steps: ['Clean prawns', 'Prepare masala', 'Cook in coconut milk', 'Simmer'],
         region: 'East India',
@@ -797,7 +797,7 @@ export const indianStates: State[] = [
       {
         id: 'pakhala',
         name: 'Pakhala Bhata',
-        image: 'https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1775036794/ChatGPT_Image_Apr_1_2026_03_11_20_PM_dsydth.png',
         ingredients: ['Rice', 'Water', 'Yogurt', 'Mustard seeds', 'Curry leaves'],
         steps: ['Cook rice', 'Soak in water', 'Ferment overnight', 'Serve with sides'],
         region: 'East India',
@@ -806,7 +806,7 @@ export const indianStates: State[] = [
       {
         id: 'rasagola',
         name: 'Rasagola',
-        image: 'https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1775036783/ChatGPT_Image_Apr_1_2026_03_13_17_PM_uw75dr.png',
         ingredients: ['Chenna', 'Sugar', 'Water', 'Cardamom'],
         steps: ['Make chenna balls', 'Boil in sugar syrup', 'Cook until spongy', 'Cool'],
         region: 'East India',
@@ -821,7 +821,7 @@ export const indianStates: State[] = [
       {
         id: 'butter-chicken',
         name: 'Butter Chicken',
-        image: 'https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1775037161/Savory_butter_chicken_with_accompaniments_dmcmmx.png',
         ingredients: ['Chicken', 'Butter', 'Tomatoes', 'Cream', 'Spices'],
         steps: ['Marinate chicken', 'Cook in butter', 'Add tomato sauce', 'Simmer with cream'],
         region: 'North India',
@@ -830,7 +830,7 @@ export const indianStates: State[] = [
       {
         id: 'makki-roti',
         name: 'Makki di Roti',
-        image: 'https://images.unsplash.com/photo-1596797038530-2c107229654b?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1775037163/ChatGPT_Image_Apr_1_2026_03_20_43_PM_pm9lq4.png',
         ingredients: ['Corn flour', 'Water', 'Salt', 'Ghee'],
         steps: ['Mix corn flour with water', 'Knead into dough', 'Roll and cook on tawa'],
         region: 'North India',
@@ -839,7 +839,7 @@ export const indianStates: State[] = [
       {
         id: 'sarson-saag',
         name: 'Sarson da Saag',
-        image: 'https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1775037161/Sarson_da_Saag_with_makki_di_roti_tdyydt.png',
         ingredients: ['Mustard greens', 'Spinach', 'Ginger', 'Garlic', 'Spices'],
         steps: ['Boil greens', 'Blend coarsely', 'Temper with spices', 'Simmer'],
         region: 'North India',
@@ -848,7 +848,7 @@ export const indianStates: State[] = [
       {
         id: 'chole-bhature',
         name: 'Chole Bhature',
-        image: 'https://images.unsplash.com/photo-1626132647523-66f85bf4c8f3?w=400',
+        image: 'https://res.cloudinary.com/dbkmlvzhi/image/upload/v1775037157/Delicious_chole_bhature_feast_vmayqv.png',
         ingredients: ['Chickpeas', 'Flour', 'Yogurt', 'Spices', 'Oil'],
         steps: ['Soak chickpeas', 'Cook with spices', 'Make bhature dough', 'Deep fry'],
         region: 'North India',
