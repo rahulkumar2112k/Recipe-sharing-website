@@ -37,26 +37,26 @@ export default function About() {
         "Passionate about preserving India's culinary heritage through technology. Combining love for traditional cooking with modern web development.",
       image:rahulImg,
       social: {
-        linkedin: "#",
-        twitter: "#",
-        github: "#",
-        email: "rahul@culinarycanvas.com",
+        linkedin: "https://www.linkedin.com/in/rahul-kumar-17a277259/",
+        twitter: "https://x.com/Rahul2112k",
+        github: "https://github.com/rahulkumar2112k",
+        email: "rahulkumar2112k@gmail.com",
       },
     },
-    {
-      name: "Siddhart Tiwari",
-      role: "UI/UX Designer & Frontend Developer",
-      description:
-        "Dedicated to crafting intuitive user experiences and visually engaging interfaces that bring Indian culinary stories to life.",
-      image:
-        "https://res.cloudinary.com/dbkmlvzhi/image/upload/v1761815953/sidd-img_mc9ixq.png",
-      social: {
-        linkedin: "#",
-        twitter: "#",
-        github: "#",
-        email: "sid@culinarycanvas.com",
-      },
-    },
+    // {
+    //   name: "Siddhart Tiwari",
+    //   role: "UI/UX Designer & Frontend Developer",
+    //   description:
+    //     "Dedicated to crafting intuitive user experiences and visually engaging interfaces that bring Indian culinary stories to life.",
+    //   image:
+    //     "https://res.cloudinary.com/dbkmlvzhi/image/upload/v1761815953/sidd-img_mc9ixq.png",
+    //   social: {
+    //     linkedin: "#",
+    //     twitter: "#",
+    //     github: "#",
+    //     email: "sid@culinarycanvas.com",
+    //   },
+    // },
     {
       name: "Ananad Dwivedi",
       role: "Backend Developer & Database Architect",
@@ -201,7 +201,7 @@ export default function About() {
             </p>
           </div>
 
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 gap-8 max-w-3xl mx-auto">
             {team.map((member, index) => (
               <Card key={index} className="hover:shadow-lg transition-shadow duration-300">
                 <CardContent className="p-8 text-center flex flex-col items-center">

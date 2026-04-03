@@ -59,8 +59,8 @@ export const Footer = () => {
           <div className="space-y-4">
             <h3 className="font-semibold text-foreground">Popular States</h3>
             <div className="space-y-2">
-              <Link to="/states?state=punjab" className="block text-muted-foreground hover:text-primary transition-colors text-sm">
-                Punjab
+              <Link to="/states?state=bihar" className="block text-muted-foreground hover:text-primary transition-colors text-sm">
+                Bihar
               </Link>
               <Link to="/states?state=kerala" className="block text-muted-foreground hover:text-primary transition-colors text-sm">
                 Kerala
