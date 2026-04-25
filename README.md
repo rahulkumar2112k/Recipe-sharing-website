@@ -79,5 +79,5 @@ git clone https://github.com/rahulkumar2112k/Recipe-sharing-website.git
 
 # Navigate into the project
 cd Recipe-sharing-website
-cd frontend folder
+cd frontend 
 npm run dev 
