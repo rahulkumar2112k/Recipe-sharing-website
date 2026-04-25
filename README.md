@@ -32,18 +32,31 @@ Users can explore traditional recipes, contribute their own dishes, and engage w
 
 ### 🏠 Home Page
 ![Home](home.png)
+![Home](home2.png)
+![Home](home4.png)
+![Home](home5.png)
+
+### 📖 About
+![About](about.png)
+![About](about2.png)
+![About](home3.png)
+
 
 ### 📍 Explore States
-![States](./screenshots/states.png)
+![States](state.png)
+
 
 ### 🍛 Recipe Details
-![Recipe](./screenshots/recipe.png)
+![States](state2.png)
+![States](state3.png)
 
 ### ⭐ Reviews Section
-![Reviews](./screenshots/reviews.png)
+![Reviews](review.png)
 
 ### ➕ Add Recipe
-![Add Recipe](./screenshots/add.png)
+![Add Recipe](share.png)
+![Add Recipe](share2.png)
+
 
 ---
 
@@ -64,5 +77,5 @@ git clone https://github.com/rahulkumar2112k/Recipe-sharing-website.git
 
 # Navigate into the project
 cd Recipe-sharing-website
-
-# Open index.html in browser
+cd frontend folder
+npm run dev 
