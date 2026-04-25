@@ -52,6 +52,7 @@ Users can explore traditional recipes, contribute their own dishes, and engage w
 
 ### ⭐ Reviews Section
 ![Reviews](review.png)
+![Reviews](review2.png)
 
 ### ➕ Add Recipe
 ![Add Recipe](share.png)
