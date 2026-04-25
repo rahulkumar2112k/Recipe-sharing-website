@@ -31,7 +31,7 @@ Users can explore traditional recipes, contribute their own dishes, and engage w
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-![Home](./screenshots/home.png)
+![Home](home.png)
 
 ### 📍 Explore States
 ![States](./screenshots/states.png)
