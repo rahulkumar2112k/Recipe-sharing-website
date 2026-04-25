@@ -63,10 +63,11 @@ Users can explore traditional recipes, contribute their own dishes, and engage w
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React.js, TypeScript, HTML, CSS, JavaScript  
-- **UI/UX:** Responsive Design, Dark Theme  
+- **Frontend:** React.js, TypeScript  
+- **Styling:** CSS3  
+- **State Management:** Context API  
+- **Build Tool:** Vite  
 - **Deployment:** Vercel  
-- **Version Control:** Git & GitHub  
 
 ---
 
